@@ -1,0 +1,14 @@
+E:\School\c#_education\bin\Debug\net8.0\c#_education.exe
+E:\School\c#_education\bin\Debug\net8.0\c#_education.deps.json
+E:\School\c#_education\bin\Debug\net8.0\c#_education.runtimeconfig.json
+E:\School\c#_education\bin\Debug\net8.0\c#_education.dll
+E:\School\c#_education\bin\Debug\net8.0\c#_education.pdb
+E:\School\c#_education\obj\Debug\net8.0\c#_education.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\c#_education\obj\Debug\net8.0\c#_education.AssemblyInfoInputs.cache
+E:\School\c#_education\obj\Debug\net8.0\c#_education.AssemblyInfo.cs
+E:\School\c#_education\obj\Debug\net8.0\c#_education.csproj.CoreCompileInputs.cache
+E:\School\c#_education\obj\Debug\net8.0\c#_education.dll
+E:\School\c#_education\obj\Debug\net8.0\refint\c#_education.dll
+E:\School\c#_education\obj\Debug\net8.0\c#_education.pdb
+E:\School\c#_education\obj\Debug\net8.0\c#_education.genruntimeconfig.cache
+E:\School\c#_education\obj\Debug\net8.0\ref\c#_education.dll
