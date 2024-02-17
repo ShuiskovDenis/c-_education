@@ -386,6 +386,50 @@
 
 //Урок 6. Массивы и строки//
 
+// Задайте массив символов (тип char []). Создайте строку из
+// символов этого массива.
+// [‘a’, ‘b’, ‘c’, ‘d’] => “abcd”
+
+// string GetStringFromCharArray(char[] array)
+// {
+//     string result = string.Empty;  // " "
+//     foreach (char symbol in array)
+//     // symbol = 'a', symbol = 'b', symbol = 'c', symbol = 'd'
+//     {
+//         result += symbol;
+//         // res = " " + 'a', res = "a"
+//         // res = "a" + 'b', res = "ab"
+//         // res = "ad" + 'c', res = "abc"
+//         // res = "abc" + 'd', res = "abcd"
+//     }
+//     return result;
+// }
+
+// char[] chars = {'1','d','!','2','f'};
+// Console.WriteLine($"Массив -> [{string.Join("; ", chars)}]");
+// string res = GetStringFromCharArray(chars);
+// Console.WriteLine(res);
 
 
+
+// На основе символов строки (тип string) сформировать массив
+// символов (тип char[]). Вывести массив на экран.
+// “Hello!” => [‘H’, ‘e’, ‘l’, ‘l’, ‘o’, ‘!’ ]
+
+// char [] ConvertStringToCharArray (string str)
+// {
+//     char [] chars = new char[str.Length];
+//     // "hi" -> [,]
+//     // "hi" -> [str[0] ,str[1]]
+//     for (int i = 0; i < str.Length; i++)
+//     {
+//         chars[i] = str[i];
+//     }
+//     return chars;
+// }
+
+// string str = "Hello World";
+// Console.WriteLine($"Строка -> {str}");
+// char[] chars = ConvertStringToCharArray(str);
+// Console.WriteLine($"Массив -> [{string.Join("; ", chars)}]");
 

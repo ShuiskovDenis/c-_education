@@ -12,3 +12,4 @@ E:\School\c#_education\obj\Debug\net8.0\refint\c#_education.dll
 E:\School\c#_education\obj\Debug\net8.0\c#_education.pdb
 E:\School\c#_education\obj\Debug\net8.0\c#_education.genruntimeconfig.cache
 E:\School\c#_education\obj\Debug\net8.0\ref\c#_education.dll
+E:\School\c#_education\obj\Debug\net8.0\c#_education.sourcelink.json
